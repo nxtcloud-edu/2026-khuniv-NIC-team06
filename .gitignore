@@ -1,0 +1,6 @@
+# 시연 영상 (용량이 커서 GitHub 100MB 제한 초과 → 제외)
+*.mp4
+
+# OS / 에디터
+.DS_Store
+Thumbs.db
